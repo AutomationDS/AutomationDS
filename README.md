@@ -26,11 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automationds&" alt="automationds" /></p>
 
-
-
-### • My GitHub Contributions
-![Snake animation] (https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **AutomationDS/AutomationDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
